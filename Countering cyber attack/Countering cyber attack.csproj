@@ -1,0 +1,38 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.WindowsDesktop">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>Countering_cyber_attack</RootNamespace>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="myPhoto.JPG" />
+    <None Remove="myPhoto2.JPG" />
+    <None Remove="myPhoto2_en.JPG" />
+    <None Remove="myPhoto3.JPG" />
+    <None Remove="myPhoto3_en.JPG" />
+    <None Remove="myPhoto4.JPG" />
+    <None Remove="myPhoto4_en.JPG" />
+    <None Remove="myPhoto_en.JPG" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="OxyPlot.Core" Version="2.1.0" />
+    <PackageReference Include="OxyPlot.WindowsForms" Version="2.1.0" />
+    <PackageReference Include="OxyPlot.Wpf" Version="2.1.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="myPhoto.JPG" />
+    <Resource Include="myPhoto2.JPG" />
+    <Resource Include="myPhoto2_en.JPG" />
+    <Resource Include="myPhoto3.JPG" />
+    <Resource Include="myPhoto3_en.JPG" />
+    <Resource Include="myPhoto4.JPG" />
+    <Resource Include="myPhoto4_en.JPG" />
+    <Resource Include="myPhoto_en.JPG" />
+  </ItemGroup>
+
+</Project>

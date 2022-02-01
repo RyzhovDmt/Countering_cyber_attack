@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "u094FrnaNnMO3expTovL35OctG9P/SeNDoC27eSKxsI1p1NSt38tuYQ77OvjYP1CrJEpK/DsX5GPrD3f/NBjbw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ryzho\\Desktop\\Countering cyber attack\\Countering cyber attack\\Countering cyber attack.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ryzho\\.nuget\\packages\\oxyplot.core\\2.1.0\\oxyplot.core.2.1.0.nupkg.sha512",
+    "C:\\Users\\ryzho\\.nuget\\packages\\oxyplot.windowsforms\\2.1.0\\oxyplot.windowsforms.2.1.0.nupkg.sha512",
+    "C:\\Users\\ryzho\\.nuget\\packages\\oxyplot.wpf\\2.1.0\\oxyplot.wpf.2.1.0.nupkg.sha512",
+    "C:\\Users\\ryzho\\.nuget\\packages\\oxyplot.wpf.shared\\2.1.0\\oxyplot.wpf.shared.2.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

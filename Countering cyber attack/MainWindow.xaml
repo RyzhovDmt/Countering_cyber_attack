@@ -1,0 +1,118 @@
+﻿<Window x:Class="Countering_cyber_attack.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:oxy="http://oxyplot.org/wpf"
+        xmlns:local="clr-namespace:Countering_cyber_attack"
+        mc:Ignorable="d"
+        x:Name="title"
+        Title="Противодействие компьютерным атакам" Height="659" Width="1053">
+
+    <Grid Margin="0,0,0,3">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="15*"/>
+            <ColumnDefinition Width="85*"/>
+            <ColumnDefinition Width="953*"/>
+        </Grid.ColumnDefinitions>
+        <TabControl Margin="0,0,0,-9" Grid.ColumnSpan="3">
+            <TabItem x:Name="tab_item1" Header="Модель">
+                <WrapPanel Height="594" >
+                    <Menu Height="25" VerticalAlignment="Center" Width="1053">
+                        <MenuItem x:Name="menu_1" Header="Примеры" >
+                            <MenuItem Header="Пример 1" x:Name="menu_item_1" Click="MenuItem_Click"/>
+                            <MenuItem Header="Пример 2" x:Name="menu_item_2" Click="MenuItem_Click_2"/>
+
+                        </MenuItem>
+                        <MenuItem x:Name="menu_3" Header="Упражнения" >
+                            <MenuItem Header="Упражнение 1" x:Name="menu_item_3" Click="MenuItem_Click_3"/>
+                            <MenuItem Header="Упражнение 2" x:Name="menu_item_4" Click="MenuItem_Click_4"/>
+
+                        </MenuItem>
+                        <MenuItem x:Name="menu_2" Header="Сменить язык" Click="MenuItem_Click_1" />
+                    </Menu>
+                    <Border  BorderThickness="1" BorderBrush="Black" Margin="30,30,30,30" Height="406" Width="644">
+                        <oxy:PlotView Model="{Binding MyModel}" />
+                    </Border>
+                    <StackPanel>
+
+                        <TextBlock x:Name="tb_1" Margin="0,50,0,0" HorizontalAlignment="Center" FontWeight="Bold"><Run Text="Коэффициент интенсивности атаки"/></TextBlock>
+                        <DockPanel VerticalAlignment="Center" Margin="10">
+                            <TextBox Text="{Binding Value, ElementName=slValue2, UpdateSourceTrigger=PropertyChanged}" DockPanel.Dock="Right" TextAlignment="Right" Width="40" IsEnabled="False" />
+                            <Slider Maximum="1" TickPlacement="BottomRight" TickFrequency="0.02" IsSnapToTickEnabled="True" IsSelectionRangeEnabled="True" x:Name="slValue2" Width="250" ValueChanged="slValue2_ValueChanged" LargeChange="0.1"/>
+                        </DockPanel>
+                        <!-- End of slider -->
+
+                        <!-- End of slider -->
+
+                        <!-- One slider -->
+                        <TextBlock x:Name="tb_2" HorizontalAlignment="Center" FontWeight="Bold"><Run Text="Уровень развития ИТ злоумышленника"/></TextBlock>
+                        <DockPanel VerticalAlignment="Center" Margin="10">
+                            <TextBox Text="{Binding Value, ElementName=slValue4, UpdateSourceTrigger=PropertyChanged}" DockPanel.Dock="Right" TextAlignment="Right" Width="40" IsEnabled="False" />
+                            <Slider Maximum="10" TickPlacement="BottomRight" TickFrequency="0.2" IsSnapToTickEnabled="True" IsSelectionRangeEnabled="True" x:Name="slValue4" Width="250" ValueChanged="slValue4_ValueChanged"/>
+                        </DockPanel>
+                        <TextBlock x:Name="tb_3" HorizontalAlignment="Center" FontWeight="Bold"><Run Text="Коэффициент интенсивности противодействия"/></TextBlock>
+                        <DockPanel VerticalAlignment="Center" Margin="10">
+                            <TextBox Text="{Binding Value, ElementName=slValue1, UpdateSourceTrigger=PropertyChanged}" DockPanel.Dock="Right" TextAlignment="Right" Width="40" IsEnabled="False" />
+                            <Slider Maximum="1" TickPlacement="BottomRight" TickFrequency="0.02" IsSnapToTickEnabled="True" IsSelectionRangeEnabled="True" x:Name="slValue1" Width="250" ValueChanged="slValue1_ValueChanged" LargeChange="0.1"/>
+                        </DockPanel>
+                        <!-- End of slider -->
+
+                        <TextBlock x:Name="tb_4" HorizontalAlignment="Center" FontWeight="Bold"><Run Text="Эффективность подавления кибервторжений"/></TextBlock>
+                        <DockPanel VerticalAlignment="Center" Margin="10">
+                            <TextBox Text="{Binding Value, ElementName=slValue3, UpdateSourceTrigger=PropertyChanged}" DockPanel.Dock="Right" TextAlignment="Right" Width="40" IsEnabled="False" />
+                            <Slider Maximum="1" TickPlacement="BottomRight" TickFrequency="0.02" IsSnapToTickEnabled="True" IsSelectionRangeEnabled="True" x:Name="slValue3" Width="250" ValueChanged="slValue3_ValueChanged" LargeChange="0.1"/>
+                        </DockPanel>
+                        <!-- End of slider -->
+                        <TextBlock x:Name="tb_5" HorizontalAlignment="Center" FontWeight="Bold"><Run Text="Технологический уровень зашищающей стороны"/></TextBlock>
+                        <DockPanel VerticalAlignment="Center" Margin="10">
+                            <TextBox Text="{Binding Value, ElementName=slValue5, UpdateSourceTrigger=PropertyChanged}" DockPanel.Dock="Right" TextAlignment="Right" Width="40" IsEnabled="False" />
+                            <Slider Maximum="10" TickPlacement="BottomRight" TickFrequency="0.2" IsSnapToTickEnabled="True" IsSelectionRangeEnabled="True" x:Name="slValue5" Width="250" Cursor="AppStarting" ValueChanged="slValue5_ValueChanged"/>
+                        </DockPanel>
+                        <Grid HorizontalAlignment="Center" Height="103" Width="296">
+                            <Button x:Name="Check" Content="Проверить" HorizontalAlignment="Center" VerticalAlignment="Center" Height="31" Width="106" Visibility="Hidden" Click="Check_Click"/>
+                        </Grid>
+
+
+                    </StackPanel>
+                    <Grid HorizontalAlignment="Center" Height="97" Width="704">
+                        <Border Margin="30,0,30,10" BorderBrush="#FF0B232F" BorderThickness="1" >
+                            <TextBlock x:Name="textblock1"  Margin="10" Text="Данная математическая модель позволяет оценить динамику процесса подавления деструктивных воздействий кибератак на информационный ресурс" TextWrapping="Wrap" FontSize="14" OpacityMask="Black" />
+
+                        </Border>
+                    </Grid>
+
+                </WrapPanel>
+
+            </TabItem>
+            <TabItem x:Name="tab_item2" Header="Описание матмодели">
+                <Grid>
+                    <ScrollViewer>
+                        <StackPanel>
+
+                            <Image Source="/myPhoto.JPG" x:Name="img" Height="600" Width="1200" />
+
+                        </StackPanel>
+                    </ScrollViewer>
+                </Grid>
+
+            </TabItem>
+            <TabItem x:Name="tab_item3" Header="Описание компьютерной модели">
+                <Grid>
+                    <ScrollViewer>
+                        <StackPanel>
+
+
+                            <Image Source="/myPhoto2.JPG" x:Name="img1" Height="600" Width="1200"/>
+                            <Image Source="/myPhoto3.JPG" x:Name="img2" Height="600" Width="1200"/>
+                        </StackPanel>
+                    </ScrollViewer>
+                </Grid>
+            </TabItem>
+
+
+        </TabControl>
+
+
+    </Grid>
+
+</Window>

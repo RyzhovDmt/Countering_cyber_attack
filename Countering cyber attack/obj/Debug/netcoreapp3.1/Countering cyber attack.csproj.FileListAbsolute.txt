@@ -1,0 +1,50 @@
+C:\Users\ryzho\source\repos\Countering cyber attack\Countering cyber attack\bin\Debug\netcoreapp3.1\Countering cyber attack.exe
+C:\Users\ryzho\source\repos\Countering cyber attack\Countering cyber attack\bin\Debug\netcoreapp3.1\Countering cyber attack.deps.json
+C:\Users\ryzho\source\repos\Countering cyber attack\Countering cyber attack\bin\Debug\netcoreapp3.1\Countering cyber attack.runtimeconfig.json
+C:\Users\ryzho\source\repos\Countering cyber attack\Countering cyber attack\bin\Debug\netcoreapp3.1\Countering cyber attack.runtimeconfig.dev.json
+C:\Users\ryzho\source\repos\Countering cyber attack\Countering cyber attack\bin\Debug\netcoreapp3.1\Countering cyber attack.dll
+C:\Users\ryzho\source\repos\Countering cyber attack\Countering cyber attack\bin\Debug\netcoreapp3.1\Countering cyber attack.pdb
+C:\Users\ryzho\source\repos\Countering cyber attack\Countering cyber attack\obj\Debug\netcoreapp3.1\Countering cyber attack.csprojAssemblyReference.cache
+C:\Users\ryzho\source\repos\Countering cyber attack\Countering cyber attack\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\ryzho\source\repos\Countering cyber attack\Countering cyber attack\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\ryzho\source\repos\Countering cyber attack\Countering cyber attack\obj\Debug\netcoreapp3.1\Countering cyber attack_MarkupCompile.cache
+C:\Users\ryzho\source\repos\Countering cyber attack\Countering cyber attack\obj\Debug\netcoreapp3.1\Countering cyber attack_MarkupCompile.lref
+C:\Users\ryzho\source\repos\Countering cyber attack\Countering cyber attack\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\ryzho\source\repos\Countering cyber attack\Countering cyber attack\obj\Debug\netcoreapp3.1\Countering cyber attack.g.resources
+C:\Users\ryzho\source\repos\Countering cyber attack\Countering cyber attack\obj\Debug\netcoreapp3.1\Countering cyber attack.AssemblyInfoInputs.cache
+C:\Users\ryzho\source\repos\Countering cyber attack\Countering cyber attack\obj\Debug\netcoreapp3.1\Countering cyber attack.AssemblyInfo.cs
+C:\Users\ryzho\source\repos\Countering cyber attack\Countering cyber attack\obj\Debug\netcoreapp3.1\Countering cyber attack.csproj.CoreCompileInputs.cache
+C:\Users\ryzho\source\repos\Countering cyber attack\Countering cyber attack\obj\Debug\netcoreapp3.1\Countering cyber attack.dll
+C:\Users\ryzho\source\repos\Countering cyber attack\Countering cyber attack\obj\Debug\netcoreapp3.1\Countering cyber attack.pdb
+C:\Users\ryzho\source\repos\Countering cyber attack\Countering cyber attack\obj\Debug\netcoreapp3.1\Countering cyber attack.genruntimeconfig.cache
+C:\Users\ryzho\source\repos\Countering cyber attack\Countering cyber attack\bin\Debug\netcoreapp3.1\OxyPlot.dll
+C:\Users\ryzho\source\repos\Countering cyber attack\Countering cyber attack\bin\Debug\netcoreapp3.1\OxyPlot.WindowsForms.dll
+C:\Users\ryzho\source\repos\Countering cyber attack\Countering cyber attack\bin\Debug\netcoreapp3.1\OxyPlot.Wpf.dll
+C:\Users\ryzho\source\repos\Countering cyber attack\Countering cyber attack\bin\Debug\netcoreapp3.1\OxyPlot.Wpf.Shared.dll
+C:\Users\ryzho\source\repos\Countering cyber attack\Countering cyber attack\obj\Debug\netcoreapp3.1\GeneratedInternalTypeHelper.g.cs
+C:\Users\ryzho\source\repos\Countering cyber attack\Countering cyber attack\obj\Debug\netcoreapp3.1\Countering cyber attack.csproj.CopyComplete
+C:\Users\ryzho\Desktop\Countering cyber attack\Countering cyber attack\bin\Debug\netcoreapp3.1\Countering cyber attack.exe
+C:\Users\ryzho\Desktop\Countering cyber attack\Countering cyber attack\bin\Debug\netcoreapp3.1\Countering cyber attack.deps.json
+C:\Users\ryzho\Desktop\Countering cyber attack\Countering cyber attack\bin\Debug\netcoreapp3.1\Countering cyber attack.runtimeconfig.json
+C:\Users\ryzho\Desktop\Countering cyber attack\Countering cyber attack\bin\Debug\netcoreapp3.1\Countering cyber attack.runtimeconfig.dev.json
+C:\Users\ryzho\Desktop\Countering cyber attack\Countering cyber attack\bin\Debug\netcoreapp3.1\Countering cyber attack.dll
+C:\Users\ryzho\Desktop\Countering cyber attack\Countering cyber attack\bin\Debug\netcoreapp3.1\Countering cyber attack.pdb
+C:\Users\ryzho\Desktop\Countering cyber attack\Countering cyber attack\bin\Debug\netcoreapp3.1\OxyPlot.dll
+C:\Users\ryzho\Desktop\Countering cyber attack\Countering cyber attack\bin\Debug\netcoreapp3.1\OxyPlot.WindowsForms.dll
+C:\Users\ryzho\Desktop\Countering cyber attack\Countering cyber attack\bin\Debug\netcoreapp3.1\OxyPlot.Wpf.dll
+C:\Users\ryzho\Desktop\Countering cyber attack\Countering cyber attack\bin\Debug\netcoreapp3.1\OxyPlot.Wpf.Shared.dll
+C:\Users\ryzho\Desktop\Countering cyber attack\Countering cyber attack\obj\Debug\netcoreapp3.1\Countering cyber attack.csprojAssemblyReference.cache
+C:\Users\ryzho\Desktop\Countering cyber attack\Countering cyber attack\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\ryzho\Desktop\Countering cyber attack\Countering cyber attack\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\ryzho\Desktop\Countering cyber attack\Countering cyber attack\obj\Debug\netcoreapp3.1\GeneratedInternalTypeHelper.g.cs
+C:\Users\ryzho\Desktop\Countering cyber attack\Countering cyber attack\obj\Debug\netcoreapp3.1\Countering cyber attack_MarkupCompile.cache
+C:\Users\ryzho\Desktop\Countering cyber attack\Countering cyber attack\obj\Debug\netcoreapp3.1\Countering cyber attack_MarkupCompile.lref
+C:\Users\ryzho\Desktop\Countering cyber attack\Countering cyber attack\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\ryzho\Desktop\Countering cyber attack\Countering cyber attack\obj\Debug\netcoreapp3.1\Countering cyber attack.g.resources
+C:\Users\ryzho\Desktop\Countering cyber attack\Countering cyber attack\obj\Debug\netcoreapp3.1\Countering cyber attack.AssemblyInfoInputs.cache
+C:\Users\ryzho\Desktop\Countering cyber attack\Countering cyber attack\obj\Debug\netcoreapp3.1\Countering cyber attack.AssemblyInfo.cs
+C:\Users\ryzho\Desktop\Countering cyber attack\Countering cyber attack\obj\Debug\netcoreapp3.1\Countering cyber attack.csproj.CoreCompileInputs.cache
+C:\Users\ryzho\Desktop\Countering cyber attack\Countering cyber attack\obj\Debug\netcoreapp3.1\Countering cyber attack.csproj.CopyComplete
+C:\Users\ryzho\Desktop\Countering cyber attack\Countering cyber attack\obj\Debug\netcoreapp3.1\Countering cyber attack.dll
+C:\Users\ryzho\Desktop\Countering cyber attack\Countering cyber attack\obj\Debug\netcoreapp3.1\Countering cyber attack.pdb
+C:\Users\ryzho\Desktop\Countering cyber attack\Countering cyber attack\obj\Debug\netcoreapp3.1\Countering cyber attack.genruntimeconfig.cache
